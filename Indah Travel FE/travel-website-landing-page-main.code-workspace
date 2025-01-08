@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../Users/ronal/Downloads/metro-rail-main"
+		},
+		{
+			"path": "../../../../Users/ronal/Downloads/Train-Ticket-Booking-System-master"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Train-Ticket-Booking-System-master"
+	}
+}
